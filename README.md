@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+Link to video : ![youtube link](https://youtu.be/SWhJajpVZ84)
+
 Author: Randy Le <br>
 Author's Email: 97Randy.le@gmail.com <br>
 
@@ -10,3 +12,4 @@ A swift game that focuses on IBAction and IBEvent. A 2 player game that requires
 * Displays whos turn it is
 * Displays if theres a winner
 * Reset button that clears the board
+
