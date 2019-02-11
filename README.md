@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Link to video : ![youtube link](https://www.youtube.com/watch?v=SWhJajpVZ84)
+Link to video : <https://www.youtube.com/watch?v=SWhJajpVZ84>
 
 Author: Randy Le <br>
 Author's Email: 97Randy.le@gmail.com <br>
