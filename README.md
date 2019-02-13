@@ -10,6 +10,6 @@ A swift game that focuses on IBAction and IBEvent. A 2 player game that requires
 
 ## Features
 * Displays whos turn it is
-* Displays if theres a winner
+* Displays if there is a winner
 * Reset button that clears the board
 
