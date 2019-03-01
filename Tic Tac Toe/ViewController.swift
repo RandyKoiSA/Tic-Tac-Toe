@@ -136,6 +136,17 @@ class ViewController: UIViewController {
                 aWinner = true;
             }
             
+            if(aWinner){
+                slotOneButton.isEnabled = false;
+                slotTwoButton.isEnabled = false;
+                slotThreeButton.isEnabled = false;
+                slotFourButton.isEnabled = false;
+                slotFiveButton.isEnabled = false;
+                slotSixButton.isEnabled = false;
+                slotSevenButton.isEnabled = false;
+                slotEightButton.isEnabled = false;
+                slotNineButton.isEnabled = false;
+            }
 
         }
 
@@ -154,6 +165,17 @@ class ViewController: UIViewController {
         slotEightButton.setTitle("", for: UIControl.State.normal)
         slotNineButton.setTitle("", for: UIControl.State.normal)
         isPlayerOne = true;
+        
+            slotOneButton.isEnabled = true;
+            slotTwoButton.isEnabled = true;
+            slotThreeButton.isEnabled = true;
+            slotFourButton.isEnabled = true;
+            slotFiveButton.isEnabled = true;
+            slotSixButton.isEnabled = true;
+            slotSevenButton.isEnabled = true;
+            slotEightButton.isEnabled = true;
+            slotNineButton.isEnabled = true;
+        
         updateLabel();
 
         
